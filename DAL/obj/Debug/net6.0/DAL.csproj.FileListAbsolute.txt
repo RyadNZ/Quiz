@@ -1,0 +1,17 @@
+E:\proj\Quiz\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\proj\Quiz\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+E:\proj\Quiz\DAL\bin\Debug\net6.0\DAL.dll
+E:\proj\Quiz\DAL\bin\Debug\net6.0\ref\DAL.dll
+E:\proj\Quiz\DAL\bin\Debug\net6.0\DAL.pdb
+E:\proj\Quiz\DAL\bin\Debug\net6.0\Model.dll
+E:\proj\Quiz\DAL\bin\Debug\net6.0\Model.pdb
+E:\proj\Quiz\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\proj\Quiz\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\proj\Quiz\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\proj\Quiz\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\proj\Quiz\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\proj\Quiz\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+E:\proj\Quiz\DAL\obj\Debug\net6.0\DAL.dll
+E:\proj\Quiz\DAL\obj\Debug\net6.0\ref\DAL.dll
+E:\proj\Quiz\DAL\obj\Debug\net6.0\DAL.pdb
+E:\proj\Quiz\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
